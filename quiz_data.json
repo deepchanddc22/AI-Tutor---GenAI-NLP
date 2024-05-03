@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which of the following is NOT a feature of federalism?",
+    "information": "Federalism is a system of government in which power is divided between a central authority and various constituent units of the country.",
+    "options": [
+      "Two or more levels of government",
+      "Jurisdiction over the same citizens",
+      "Central government can order state government",
+      "Constitutional guarantee of power"
+    ],
+    "answer": "Central government can order state government"
+  },
+  {
+    "question": "Which of the following is a reason for the success of federalism in India?",
+    "information": "The creation of linguistic States was the first and a major test for democratic politics in our country.",
+    "options": [
+      "Constitutional provisions",
+      "Respect for diversity",
+      "Desire for living together",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the purpose of decentralization in India?",
+    "information": "Decentralization is the process of taking power away from Central and State governments and giving it to local government.",
+    "options": [
+      "To solve problems at the local level",
+      "To increase democratic participation",
+      "To reduce the size of the government",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a tier of local government in India?",
+    "information": "Local government in India has three tiers: panchayats, municipalities, and zilla parishads.",
+    "options": [
+      "Gram panchayat",
+      "Municipal corporation",
+      "Zilla parishad",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the constitutional status of local government in India?",
+    "information": "The 73rd and 74th Amendments to the Constitution of India gave constitutional status to local government.",
+    "options": [
+      "Mandatory elections",
+      "Reservation for SCs, STs, and OBCs",
+      "Reservation for women",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the main challenge facing local government in India?",
+    "information": "Local governments in India often face challenges such as lack of powers, resources, and capacity.",
+    "options": [
+      "Lack of powers",
+      "Lack of resources",
+      "Lack of capacity",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the significance of the Porto Alegre experiment in Brazil?",
+    "information": "The Porto Alegre experiment in Brazil is an example of how decentralization and participative democracy can be combined to empower citizens.",
+    "options": [
+      "It allows citizens to participate in making the budget for their city",
+      "It ensures that money is spent on the needs of the poor",
+      "It has reduced poverty and inequality",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the role of the gram sabha in panchayati raj?",
+    "information": "The gram sabha is the decision-making body for the entire village in panchayati raj.",
+    "options": [
+      "To approve the annual budget of the gram panchayat",
+      "To review the performance of the gram panchayat",
+      "To elect the sarpanch",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the difference between a municipality and a municipal corporation?",
+    "information": "Municipalities are set up in towns, while municipal corporations are constituted into big cities.",
+    "options": [
+      "Size",
+      "Powers",
+      "Structure",
+      "All of the above"
+    ],
+    "answer": "Size"
+  },
+  {
+    "question": "What is the political head of a zilla parishad called?",
+    "information": "The political head of a zilla parishad is called the zilla parishad chairperson.",
+    "options": [
+      "Zilla parishad president",
+      "Zilla parishad chairperson",
+      "Zilla parishad mayor",
+      "Zilla parishad chief"
+    ],
+    "answer": "Zilla parishad chairperson"
+  }
+]
