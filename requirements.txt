@@ -5,4 +5,3 @@ langchain
 PyPDF2
 langchain_google_genai
 langchain-community
-json
